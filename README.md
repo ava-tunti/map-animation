@@ -1,11 +1,11 @@
 ## Real Time Bus Tracker - Ava Tunti
 # Description:
-This program will show a starting page of a marker on a map in Cambridge, Boston. When the program starts, the marker will move and stop at each bus stop from MIT to Harvard in one second intervals.
+This program shows a real-time bus tracker with a starting point in Cambridge, Boston. The marker on the map moves and makes stops at each bus stop along the route from MIT to Harvard at one second intervals. An exciting feature is that the marker changes color randomly every time it moves!
 
 # Running Instructions:
-Simply go to the link [Real Time Bus Tracker](https://ava-tunti.github.io/real-time-bus-tracker/) and click the button. Then, sit back and watch the marker stop at each bus stop for one second. An additional feature to note is that every time the marker moves, it will change color randomly!
+Simply go to the link [Real Time Bus Tracker](https://ava-tunti.github.io/real-time-bus-tracker/) and click the button to start the program. Observe the marker stopping at each bus stop for one second. Enjoy the dynamic experience with the marker changing colors at every move.
 
 # Future Improvements:
-Some possible improvements in the future would be to display info of each bus stop as it passes. For styling and displays, we could add a bus animation that drives along with the marker.
+Potential future enhancements include displaying information about each bus stop as the marker passes. Stylistic improvements may involve adding a bus animation that moves in sync with the marker.
 
-LICENSE: MIT xPRO Full Stack Web Development Template, refactored and completed by Ava Tunti
+This project is licensed under the MIT License. The original template is sourced from the xPRO Full Stack Web Development course and has been refactored and completed by Ava Tunti.
