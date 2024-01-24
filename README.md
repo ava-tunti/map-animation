@@ -8,6 +8,7 @@ Simply go to the link [Real Time Bus Tracker](https://ava-tunti.github.io/real-t
 # Future Improvements:
 Potential future enhancements include displaying information about each bus stop as the marker passes. Stylistic improvements may involve adding a bus animation that moves in sync with the marker.
 
+#
 **MIT License**
 
 Copyright (c) 2020 John Williams
